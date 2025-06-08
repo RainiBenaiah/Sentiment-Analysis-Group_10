@@ -47,4 +47,14 @@ Split text into tokens using NLTK or spaCy
 
 c. Stopword Removal
 Remove common stopwords (e.g., “the”, “and”) using NLTK
+ 
+
+## Local Development Setup
+
+Clone the repository or download these files to run in your collab.
+
+Traditional model: [traditional_model](https://colab.research.google.com/github/RainiBenaiah/Sentiment-Analysis-Group_10/blob/main/sentiment_analysis_traditional_modelGP10.ipynb)
+
+Deep learning model: [deep_learn.ipynb…](https://colab.research.google.com/drive/1Sg1euYF2ozZi7yL7EDe9qox9dKUqdDYN?usp=sharing&authuser=1)
+
 
