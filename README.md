@@ -46,7 +46,7 @@ b. Tokenization
 Split text into tokens using NLTK or spaCy
 
 c. Stopword Removal
-Remove common stopwords (e.g., “the”, “and”) using NLTK
+Remove common stopwords (e.g., “the”, “and”, "is") using NLTK
  
 
 ## Local Development Setup.
