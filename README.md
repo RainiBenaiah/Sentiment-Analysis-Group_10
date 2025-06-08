@@ -49,7 +49,7 @@ c. Stopword Removal
 Remove common stopwords (e.g., “the”, “and”) using NLTK
  
 
-## Local Development Setup
+## Local Development Setup.
 
 Clone the repository or download these files to run in your collab.
 
