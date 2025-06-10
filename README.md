@@ -56,7 +56,7 @@ Clone the repository or download these files to run in your collab.
 Traditional model: [traditional_model](https://colab.research.google.com/github/RainiBenaiah/Sentiment-Analysis-Group_10/blob/main/sentiment_analysis_traditional_modelGP10.ipynb)
 
 Deep learning model: [deep_learn.ipynb…](https://colab.research.google.com/drive/1Sg1euYF2ozZi7yL7EDe9qox9dKUqdDYN?usp=sharing&authuser=1)
-                     [deeplearn.ipynb…](https://colab.research.google.com/drive/1ezM9LVOnaWCyarRsSlDfLq7LuVJVd0IA?usp=sharing)
+                     
                      
 
 
